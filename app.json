@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/Bookswallah/bw",
  "addons": [
     {
        "options": {
@@ -34,12 +34,12 @@
     "API_ID": {
        "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": "3160248"
+       "value": "9166185"
     },
     "API_HASH": {
        "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
        "required": true,
-       "value": "da866bcad3446898c4d4a20fa10b9d09"
+       "value": "867e01aae21b134ccbbe14f6fc3c6525"
     },    
     "SQLALCHEMY_DATABASE_URI": {
        "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -49,7 +49,7 @@
     "OWNER_ID": {
        "description": "Your user ID as an integer.",
        "required": true,
-       "value": "1697409878"
+       "value": "1877185243"
     },
 
     "BOT_NAME": {
@@ -69,7 +69,7 @@
     "PHOTO": {
        "description": "Your Telegram Bot Image (Add Link Only).",
        "required": true,
-       "value": "https://telegra.ph/file/b749b0e80e82291e85e10.jpg"
+       "value": "https://telegra.ph/file/40633ebef6c0b2f5ec7e7.jpg"
     },      
     "DEV_USERS": {
        "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Masha support then keep the current ID's here at they are and add yours.",
